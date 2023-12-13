@@ -1,0 +1,3 @@
+tuple = ('xd')
+
+print(tuple)
